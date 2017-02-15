@@ -1,9 +1,9 @@
 # LockProject
 Electronic Lock Project
 
-start arduino bord
+# start arduino bord
 node Lock/Lock.js
 
 
-start web server
+# start web server
 node server/app.js
