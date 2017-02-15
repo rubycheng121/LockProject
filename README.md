@@ -1,2 +1,0 @@
-# LockProject
-Electronic Lock Project
